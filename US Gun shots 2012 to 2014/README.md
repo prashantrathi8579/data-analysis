@@ -4,7 +4,7 @@
 
 - github parses .csv and jupyter notebooks. So, user can directly click and view any of the attached file.
 
-- This analysis expects user to know python and jupyter notebook to understand the flow and cells in  US_Gun_Shot_Deaths_Analysis_2012_2014.ipynb file.
+- This analysis expects user to know basic python and basic understanding of jupyter notebook to get the flow and cells in  US_Gun_Shot_Deaths_Analysis_2012_2014.ipynb file.
 
 - Uploaded files can be used or downloaded for further analysis or personal understanding.
 
